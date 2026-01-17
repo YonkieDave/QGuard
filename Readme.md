@@ -12,7 +12,7 @@
 QR codes are everywhere—payments, menus, and logins. However, humans cannot read QR codes, making them a perfect vehicle for cyberattacks. Hackers embed malicious URLs inside QR codes, bypassing traditional email filters.
 
 ## 💡 The Solution
-QuishGuard acts as a "security guard" between the camera and the browser. It scans the QR code, analyzes the URL structure using AI, and provides an instant safety rating:
+QGuard acts as a "security guard" between the camera and the browser. It scans the QR code, analyzes the URL structure using AI, and provides an instant safety rating:
 * 🟢 **Green:** Safe Website.
 * 🟠 **Orange:** Verified Payment (UPI, GPay, Paytm).
 * 🔴 **Red:** Danger / Malicious Phishing Pattern.
@@ -115,3 +115,4 @@ Built by **[Anushka Deshmukh]**.
 
 
 ```
+
