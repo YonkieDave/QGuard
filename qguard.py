@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 # --- 1. LOAD THE BRAIN ---
-print("Loading QuishGuard AI Model...")
+print("Loading QGuard AI Model...")
 try:
     with open("phishing_model.pkl", "rb") as file:
         model = pickle.load(file)
@@ -35,7 +35,7 @@ def check_whitelist(url):
     return False # Not in whitelist, ask the AI
 
 # --- 4. START THE SYSTEM ---
-def start_quishguard():
+def start_qguard():
     cap = cv2.VideoCapture(0)
     detector = cv2.QRCodeDetector()
     
@@ -98,4 +98,5 @@ def start_quishguard():
     cv2.destroyAllWindows()
 
 if __name__ == "__main__":
-    start_quishguard()
+
+    start_qguard()
