@@ -53,7 +53,7 @@ However, the training dataset (`data.csv`) is **not included** due to GitHub's f
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/TheQuantumScripter/QuishGuard.git] (https://github.com/TheQuantumScripter/QuishGuard.git)
+git clone [https://github.com/CodeWhizAnu/QGuard.git] (https://github.com/CodeWhizAnu/QGuard.git))
 cd QuishGuard-QR-Security
 
 ```
@@ -112,5 +112,6 @@ streamlit run app.py
 Built by **[Anushka Deshmukh]**.
 
 ```
+
 
 ```
